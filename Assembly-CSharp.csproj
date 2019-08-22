@@ -60,6 +60,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Code\_AI\AIController.cs" />
+    <Compile Include="Assets\_Code\_AI\Aspect.cs" />
     <Compile Include="Assets\_Code\_Player\PlayerController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Unit67/Jump/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

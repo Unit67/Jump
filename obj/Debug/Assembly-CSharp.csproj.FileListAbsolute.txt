@@ -261,3 +261,14 @@ C:\Users\Unit67\Jump\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\Unit67\Jump\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\Unit67\Jump\obj\Debug\Assembly-CSharp.dll
 C:\Users\Unit67\Jump\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.ugui.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.VisualStudio.Editor.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+C:\Users\Unit67\Jump\Temp\bin\Debug\Unity.ugui.Editor.pdb
